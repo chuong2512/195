@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/BirdDown2D/Scenes/GamePlay.unity
+    guid: 3fc28a2f886a2694db77008b180d4e5f
   m_configObjects: {}
